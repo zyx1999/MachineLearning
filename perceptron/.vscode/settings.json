@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "fstream": "cpp",
+        "streambuf": "cpp",
+        "*.tcc": "cpp",
+        "type_traits": "cpp",
+        "core": "cpp",
+        "ostream": "cpp",
+        "dense": "cpp",
+        "ctime": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
